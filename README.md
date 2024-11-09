@@ -26,19 +26,4 @@ This project aims to develop a system for identifying plant health using Convolu
     pip install -r requirements.txt
     ```
 
-## Usage
-
-1. Prepare your dataset and place it in the `data` directory.
-2. Train the model:
-    ```bash
-    python train.py
-    ```
-3. Evaluate the model:
-    ```bash
-    python evaluate.py
-    ```
-
-## Dataset
-
-
 
